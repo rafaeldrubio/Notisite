@@ -1,0 +1,91 @@
+{
+  "news": [
+    {
+      "title": "O que é pix?",
+      "link": "https://www.bcb.gov.br/estabilidadefinanceira/pix",
+      "likes": 0,
+      "userId": 1,
+      "createdAt": "2023-04-07T16:42:21.461Z",
+      "id": 1
+    },
+    {
+      "title": "Cotações e Boletins de Câmbio do BCB",
+      "link": "https://www.bcb.gov.br/estabilidadefinanceira/historicocotacoes",
+      "likes": 0,
+      "userId": 1,
+      "createdAt": "2023-04-12T01:39:01.085Z",
+      "id": 2
+    },
+    {
+      "title": "Índice de Basileia BCB",
+      "link": "https://www.bcb.gov.br/estatisticas/detalhamentoGrafico/graficosestatisticas/indicebasileia",
+      "likes": 0,
+      "userId": 1,
+      "createdAt": "2023-04-16T03:18:56.488Z",
+      "id": 3
+    },
+    {
+      "title": "Como investir em Títulos Públicos",
+      "link": "https://www.btgpactualdigital.com/como-investir/artigos/investimentos/como-investir-em-titulos-publicos-vantagens-e-passo-passo",
+      "likes": 0,
+      "userId": 1,
+      "createdAt": "2023-04-07T16:42:21.461Z",
+      "id": 4
+    },
+    {
+      "title": "Millennials e Geração Z: qual a relação dessas gerações com os investimentos?",
+      "link": "https://www.btgpactualdigital.com/como-investir/artigos/coluna-andre-bona/millennials-e-geracao-z-qual-a-relacao-dessas-geracoes-com-os-investimentos",
+      "likes": 0,
+      "userId": 1,
+      "createdAt": "2023-04-12T01:39:01.085Z",
+      "id": 5
+    },
+    {
+      "title": "Celso Amorim: Brasil está interessado em estudar adesão à nova Rota da Seda",
+      "link": "https://www.infomoney.com.br/economia/celso-amorim-brasil-esta-interessado-em-estudar-adesao-a-nova-rota-da-seda/",
+      "createdAt": "2023-05-07T01:39:22.793Z",
+      "userId": 1,
+      "id": 6
+    },
+    {
+      "title": "Novo presidente da Funcef quer vender imóveis para reduzir rombo de R$ 20 bi do fundo de pensão da Caixa",
+      "link": "https://www.google.com/amp/s/oglobo.globo.com/google/amp/economia/financas/noticia/2023/05/novo-presidente-da-funcef-quer-vender-imoveis-para-reduzir-rombo-de-r-20-bi-do-fundo-de-pensao-da-caixa.ghtml",
+      "createdAt": "2023-05-07T01:41:27.929Z",
+      "userId": 2,
+      "id": 7
+    },
+    {
+      "title": "Índice de Basileia BCB2",
+      "link": "https://www.bcb.gov.br/estatisticas/detalhamentoGrafico/graficosestatisticas/indicebasileia",
+      "likes": 0,
+      "userId": 3,
+      "createdAt": "2023-10-24T23:56:11.947Z",
+      "id": 8
+    }
+  ],
+  "users": [
+    {
+      "email": "joao@exemplo.com",
+      "password": "$2a$10$0ZB/oyUU/2yISII9tbwt.O98iKrWBKiuBCn8H.d0IShMrIjS1/5fW",
+      "name": "João",
+      "id": 1
+    },
+    {
+      "email": "giovanna@exemplo.com",
+      "password": "$2a$10$hXiJ..EbmIJiOBVKQevhN.PVMQ4BPMlNPv1QVlqBZJJGtt01GRjZS",
+      "name": "Giovanna ",
+      "id": 2
+    },
+    {
+      "email": "rafael@exemplo.com",
+      "password": "$2a$10$7CzrTFwYbHVR4.u0B1CMoufH5e25bJRwmgCNadeRbElXNtvWKBZQq",
+      "name": "rafael",
+      "id": 3
+    },
+    {
+      "email": "rafaelrubio@exemplo.com",
+      "password": "$2a$10$A8ywrCNzLlvT0dL43bN7seELnVLNFueAPxP1UYIuSWpSzI400CGl.",
+      "id": 4
+    }
+  ]
+}
